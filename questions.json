@@ -1,0 +1,250 @@
+{
+  "heading": "Supporting Details",
+  "topics": [
+    {
+      "heading": "Supporting Details in Literary and Informational Texts",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following is an example of a supporting detail used to develop setting in a literary text?",
+          "options": [
+            "A government report detailing air pollution levels in different cities.",
+            "A character describing the thick, hazy air as it clings to the city streets.",
+            "A graph showing the decline in clean air quality over the last 10 years.",
+            "An article explaining how air pollution affects human health."
+          ],
+          "answer": 1,
+          "explanation": "In literary texts, supporting details that develop the setting often involve vivid descriptions that appeal to the senses. Option b provides a detailed description that creates an image of the environment, helping to establish the setting."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which of the following would most likely be a supporting detail in an informational text about nutrition?",
+          "options": [
+            "A character reflecting on how different foods make them feel energized.",
+            "The nutritional value of various fruits and vegetables listed in a table.",
+            "A character's dream about finding a magical fruit that cures all illnesses.",
+            "A simile comparing the taste of an apple to a burst of sunshine."
+          ],
+          "answer": 1,
+          "explanation": "Informational texts use factual information, such as nutritional data, to support the main idea. Option b provides concrete evidence related to nutrition, while the other options are more appropriate for literary texts."
+        },
+        {
+          "questionNo": 3,
+          "question": "Supporting details in literary texts can include symbolism, while in informational texts, they should be based on clear, factual information.",
+          "options": [
+            "True",
+            "False",
+            "True for literary texts only",
+            "True for informational texts only"
+          ],
+          "answer": 0,
+          "explanation": "This statement is accurate. Literary texts often incorporate symbolic elements as supporting details to convey deeper meanings. In contrast, informational texts rely on clear, factual information."
+        },
+        {
+          "questionNo": 4,
+          "question": "In both literary and informational texts, supporting details are always used to explain the main idea in a straightforward manner.",
+          "options": [
+            "True",
+            "False",
+            "True for literary texts only",
+            "True for informational texts only"
+          ],
+          "answer": 1,
+          "explanation": "The statement is false. In informational texts, supporting details are often straightforward and directly related to explaining the main idea. However, in literary texts, supporting details may be used in more nuanced or indirect ways."
+        },
+        {
+          "questionNo": 5,
+          "question": "Literary texts typically use supporting details to build characters or settings, while informational texts use them to clarify instructions or explain procedures.",
+          "options": [
+            "True",
+            "False",
+            "True for literary texts only",
+            "True for informational texts only"
+          ],
+          "answer": 0,
+          "explanation": "This statement is true. In literary texts, supporting details help to build the narrative, such as by developing characters or settings."
+        },
+        {
+          "questionNo": 6,
+          "question": "In informational texts, supporting details aim to persuade the reader by evoking emotions, whereas in literary texts, they provide factual information to support the story.",
+          "options": [
+            "True",
+            "False",
+            "True for informational texts only",
+            "True for literary texts only"
+          ],
+          "answer": 1,
+          "explanation": "The statement is false. Informational texts aim to inform or explain using factual information, not to evoke emotions as the primary purpose."
+        },
+        {
+          "questionNo": 7,
+          "question": "Supporting details in literary texts are always objective and free from bias, just as they are in informational texts.",
+          "options": [
+            "True",
+            "False",
+            "True for literary texts only",
+            "True for informational texts only"
+          ],
+          "answer": 1,
+          "explanation": "The statement is false. Literary texts often involve subjective perspectives and can use biased or symbolic details to convey a particular point of view or theme."
+        },
+        {
+          "questionNo": 8,
+          "question": "In literary texts, supporting details may include character dialogue and descriptions, while in informational texts, they often consist of expert testimony or statistical evidence.",
+          "options": [
+            "True",
+            "False",
+            "True for literary texts only",
+            "True for informational texts only"
+          ],
+          "answer": 0,
+          "explanation": "This statement is true because literary texts often use dialogue, character thoughts, and descriptive language as supporting details."
+        },
+        {
+          "questionNo": 9,
+          "question": "Match the supporting detail with the type of text (literary or informational) it most likely belongs to: 'The ancient castle stood on the hill like a forgotten sentinel, its crumbling walls cloaked in ivy and history.'",
+          "options": [
+            "Literary",
+            "Informational",
+            "Both literary and informational",
+            "Neither"
+          ],
+          "answer": 0,
+          "explanation": "The detail employs a simile and vivid imagery to evoke a sense of mood and atmosphere, characteristic of literary writing."
+        },
+        {
+          "questionNo": 10,
+          "question": "Match the supporting detail with the type of text (literary or informational) it most likely belongs to: 'Photosynthesis is the process by which green plants convert sunlight into chemical energy, producing oxygen as a byproduct.'",
+          "options": [
+            "Literary",
+            "Informational",
+            "Both literary and informational",
+            "Neither"
+          ],
+          "answer": 1,
+          "explanation": "The statement explains a scientific concept in a clear, factual manner without using any figurative language."
+        },
+        {
+          "questionNo": 11,
+          "question": "Match the supporting detail with the type of text (literary or informational) it most likely belongs to: 'The knight's armor glinted in the morning light, a silver shield against the coming tide of darkness.'",
+          "options": [
+            "Literary",
+            "Informational",
+            "Both literary and informational",
+            "Neither"
+          ],
+          "answer": 0,
+          "explanation": "This detail uses imagery and metaphorical language to create a dramatic scene, a common feature of literary texts."
+        },
+        {
+          "questionNo": 12,
+          "question": "Match the supporting detail with the type of text (literary or informational) it most likely belongs to: 'According to the data, 75% of the population experienced a significant improvement in health after switching to a plant-based diet.'",
+          "options": [
+            "Literary",
+            "Informational",
+            "Both literary and informational",
+            "Neither"
+          ],
+          "answer": 1,
+          "explanation": "The use of statistical information and factual reporting aligns with the style of informational texts."
+        },
+        {
+          "questionNo": 13,
+          "question": "Match the supporting detail with the type of text (literary or informational) it most likely belongs to: 'The wind whispered secrets through the ancient oak, its branches swaying like dancers in a slow, rhythmic waltz.'",
+          "options": [
+            "Literary",
+            "Informational",
+            "Both literary and informational",
+            "Neither"
+          ],
+          "answer": 0,
+          "explanation": "The detail uses personification and similes to create a vivid, imaginative picture, typical of literary texts."
+        },
+        {
+          "questionNo": 14,
+          "question": "Match the supporting detail with the type of text (literary or informational) it most likely belongs to: 'The researchers observed that the lion's mane grew thicker as it aged, likely as a means of intimidation or protection.'",
+          "options": [
+            "Literary",
+            "Informational",
+            "Both literary and informational",
+            "Neither"
+          ],
+          "answer": 1,
+          "explanation": "This supporting detail provides factual information about animal behavior presented objectively."
+        },
+        {
+          "questionNo": 15,
+          "question": "What is the role of supporting details in an informational text?",
+          "options": [
+            "To use metaphors to add a layer of meaning",
+            "To present factual information that supports the central idea",
+            "To develop characters in a story",
+            "To evoke an emotional response from the reader"
+          ],
+          "answer": 1,
+          "explanation": "Supporting details in informational texts provide evidence or examples to back up the main idea."
+        },
+        {
+          "questionNo": 16,
+          "question": "Why are supporting details important in an informational text?",
+          "options": [
+            "To highlight themes using symbolic references",
+            "To convey a sense of irony or humor",
+            "To supply evidence that reinforces the main argument",
+            "To develop characters and their motivations"
+          ],
+          "answer": 2,
+          "explanation": "In informational writing, the role of supporting details is to strengthen the main argument by providing evidence."
+        },
+        {
+          "questionNo": 17,
+          "question": "What is the main goal of a supporting detail in an informational text?",
+          "options": [
+            "To draw comparisons using figurative language",
+            "To provide facts or examples that support the topic",
+            "To create a mysterious tone for the reader",
+            "To explore the symbolic meaning of an object"
+          ],
+          "answer": 1,
+          "explanation": "Informational texts aim to inform or educate, and supporting details help achieve this by offering factual evidence or specific examples that back up the main topic. The other options focus on literary techniques rather than the factual nature of informational texts."
+        },
+        {
+          "questionNo": 18,
+          "question": "The primary purpose of supporting details in an informational text is to:",
+          "options": [
+            "Present factual evidence to verify the central idea",
+            "Establish a mood or atmosphere for the reader",
+            "Use dialogue to advance the plot",
+            "Incorporate irony to make the text more engaging"
+          ],
+          "answer": 0,
+          "explanation": "In informational texts, supporting details are used to verify and strengthen the main idea by presenting factual evidence such as data, quotes, or examples. The other options (b, c, and d) are more suited to literary works where mood, plot, and stylistic devices play significant roles."
+        },
+        {
+          "questionNo": 19,
+          "question": "What is a key purpose of supporting details in an informational text?",
+          "options": [
+            "To provide background information on a character's thoughts",
+            "To clarify or explain the main point of the text",
+            "To describe the setting in vivid detail",
+            "To use personification to add depth to the description"
+          ],
+          "answer": 1,
+          "explanation": "In informational writing, supporting details are included to make the main point more understandable by adding relevant facts, statistics, or examples. The other options are more characteristic of literary texts where the focus is on narrative elements or figurative language."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of the following best describes the purpose of a supporting detail in an informational text?",
+          "options": [
+            "To evoke a sense of nostalgia in the reader",
+            "To create tension and suspense in the narrative",
+            "To give evidence that supports a factual claim",
+            "To employ similes and metaphors to make the text more poetic"
+          ],
+          "answer": 2,
+          "explanation": "Informational texts use supporting details to substantiate factual claims or statements made in the text. This helps build the credibility of the content and informs the reader about the subject. The other options focus on emotional or stylistic effects, which are more common in literary texts."
+        }
+      ]
+    }
+  ]
+}
